@@ -1,0 +1,11 @@
+{
+    "inputMessageMetadata": {},
+    "outputMessageMetadata": {
+        "messagePayload": {
+            "connectorName": "American_HTTP_Request_Configuration",
+            "typeId": "GET:/flights/{ID}_response"
+        }
+    },
+    "id": "510e1fc0-38c5-4d34-961f-e9b76bc2370d",
+    "version": "5.2.0.0"
+}
